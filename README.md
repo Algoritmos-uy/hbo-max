@@ -7,13 +7,6 @@ Este proyecto es un clon de la página de HBO Max creado con fines educativos. E
 El proyecto tiene la siguiente estructura de directorios:
 Recopilando información del área de trabajo
 
-
-
-## Estructura del Proyecto
-
-El proyecto tiene la siguiente estructura de directorios:
-```
-
 .dist/
 .vscode/
 assets/
