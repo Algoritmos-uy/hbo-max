@@ -7,16 +7,7 @@ Este proyecto es un clon de la página de HBO Max creado con fines educativos. E
 El proyecto tiene la siguiente estructura de directorios:
 Recopilando información del área de trabajo
 
-Claro, aquí tienes un
 
-README.md
-
-acorde al análisis del proyecto:
-
-```md
-# Clon de HBO Max
-
-Este proyecto es un clon de la página de HBO Max creado con fines educativos. El objetivo es replicar la interfaz de usuario y algunas funcionalidades básicas utilizando HTML y CSS.
 
 ## Estructura del Proyecto
 
@@ -89,8 +80,4 @@ Desarrollado por [Willans Junes]
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
-```
 
-Este `README.md` proporciona una visión general del proyecto, su estructura, cómo instalarlo y usarlo, las tecnologías utilizadas, las funcionalidades y los créditos.
-
-```
